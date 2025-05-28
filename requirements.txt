@@ -1,3 +1,9 @@
 playwright
 beautifulsoup4
 markdownify
+fastapi
+uvicorn
+pydantic
+transformers
+pytesseract
+Pillow
